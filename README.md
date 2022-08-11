@@ -4,3 +4,5 @@ is updated from real-time data, and uses simulation,machine learning and reasoni
 
 In this project a robot is connected to the Eclips Ditto to route the robot joints positions into the virtual enviroment
 to monitor robot in the real time and remotely.
+
+To run Eclipse Ditto : https://github.com/eclipse/ditto/blob/master/deployment/docker/README.md
